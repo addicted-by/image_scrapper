@@ -38,7 +38,7 @@ if __name__ == "__main__":
 # Arguments
 | Method | Arguments |Description |
 | :---         |     :---:      |          :--- |
-| `__init__` | webdriver_path=`'./'` | path to your browser webdriver (default -- current path) |
+| `__init__` | webdriver_path=`'./'` | path to your browser webdriver (default - current path) |
 | `__init__` | browser=`{'edge', 'chrome'}` | your browser |
 | `__init__` | source=`{'yandex', 'google'}` | desired search system (google for low resolution, yandex for high) |
 | `__init__` | output_path=`'./'` | path to download (default will change to query string due to the emptiness) |
